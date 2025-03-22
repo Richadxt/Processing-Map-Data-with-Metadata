@@ -31,12 +31,6 @@ The goal is to **load, merge, and analyze** this data to extract insights like:
 
 ---
 
-## **🛠 Project Setup & Installation**
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/Richadxt/Processing-Map-Data-with-Metadata.git
-cd Processing-Map-Data-with-Metadata
-
 
 ## **API Endpoints**
 Method	Endpoint	                         Description
@@ -47,4 +41,12 @@ GET	/api/v1/mapdata/valid-count   	    Counts valid locations per type. ![This i
 GET	/api/v1/mapdata/average-ratings   	Calculates average rating per type. ![This is an image](src/Screenshot(4).png)
 GET	/api/v1/mapdata/highest-reviews   	Identifies the location with the highest reviews. ![This is an image](src/Screenshot(6).png)
 GET	/api/v1/mapdata/incomplete-data   	Lists locations missing metadata is present. ![This is an image](src/Screenshot(5).png)
+
+
+
+## **🛠 Project Setup & Installation**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/Richadxt/Processing-Map-Data-with-Metadata.git
+cd Processing-Map-Data-with-Metadata
 
