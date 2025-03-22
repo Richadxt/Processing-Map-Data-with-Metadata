@@ -1,0 +1,10 @@
+[
+    {"id": "loc_01", "type": "restaurant", "rating": 4.5, "reviews": 120},
+    {"id": "loc_04", "type": "restaurant", "rating": 4.1, "reviews": 500},
+    {"id": "loc_05", "type": "restaurant", "rating": 3.7, "reviews": 110},
+    {"id": "loc_02", "type": "hotel", "rating": 4.2, "reviews": 200},
+    {"id": "loc_06", "type": "hotel", "rating": 4.0, "reviews": 700},
+    {"id": "loc_07", "type": "hotel", "rating": 2.0, "reviews": 900},
+    {"id": "loc_03", "type": "cafe", "rating": 4.7, "reviews": 150},
+    {"id": "loc_08", "type": "cafe", "rating": 4.5, "reviews": 750}
+]

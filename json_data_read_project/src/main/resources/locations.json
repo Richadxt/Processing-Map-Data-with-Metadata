@@ -1,0 +1,10 @@
+[
+    {"id": "loc_01", "latitude": 37.7749, "longitude": -122.4194},
+    {"id": "loc_04", "latitude": 27.8749, "longitude": 122.4194},
+    {"id": "loc_05", "latitude": 57.2749, "longitude": -112.4344},
+    {"id": "loc_06", "latitude": 14.0522, "longitude": -119.2531},
+    {"id": "loc_07", "latitude": 64.0522, "longitude": -108.2330},
+    {"id": "loc_02", "latitude": 34.0522, "longitude": -118.2437},
+    {"id": "loc_08", "latitude": 24.0522, "longitude": -168.2197},
+    {"id": "loc_03", "latitude": 40.7128, "longitude": -74.0060}
+]
