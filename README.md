@@ -34,12 +34,12 @@ The goal is to **load, merge, and analyze** this data to extract insights like:
 ## **🌐 API Endpoints**
 | Method | Endpoint | Description | Screenshot |
 |--------|----------|-------------|------------|
-| **GET** | `/api/v1/mapdata/load` | Loads JSON data into the system. | ![Load Data](Screenshot (1).png) |
-| **GET** | `/api/v1/mapdata/merged` | Returns merged location and metadata. | ![Merged Data](Screenshot (2).png) |
-| **GET** | `/api/v1/mapdata/valid-count` | Counts valid locations per type. | ![Valid Count](Screenshot (3).png) |
-| **GET** | `/api/v1/mapdata/average-ratings` | Calculates average rating per type. | ![Average Ratings](Screenshot (4).png) |
-| **GET** | `/api/v1/mapdata/highest-reviews` | Identifies the location with the highest reviews. | ![Highest Reviews](Screenshot (6).png) |
-| **GET** | `/api/v1/mapdata/incomplete-data` | Lists locations missing metadata. | ![Incomplete Data](Screenshot (5).png) |
+| **GET** | `/api/v1/mapdata/load` | Loads JSON data into the system. | ![Load Data](Screenshot(1).png) |
+| **GET** | `/api/v1/mapdata/merged` | Returns merged location and metadata. | ![Merged Data](Screenshot(2).png) |
+| **GET** | `/api/v1/mapdata/valid-count` | Counts valid locations per type. | ![Valid Count](Screenshot(3).png) |
+| **GET** | `/api/v1/mapdata/average-ratings` | Calculates average rating per type. | ![Average Ratings](Screenshot(4).png) |
+| **GET** | `/api/v1/mapdata/highest-reviews` | Identifies the location with the highest reviews. | ![Highest Reviews](Screenshot(6).png) |
+| **GET** | `/api/v1/mapdata/incomplete-data` | Lists locations missing metadata. | ![Incomplete Data](Screenshot(5).png) |
 
 ---
 
