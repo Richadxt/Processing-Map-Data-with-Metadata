@@ -34,12 +34,12 @@ The goal is to **load, merge, and analyze** this data to extract insights like:
 ## **🌐 API Endpoints**
 | Method | Endpoint | Description | Screenshot |
 |--------|----------|-------------|------------|
-| **GET** | `/api/v1/mapdata/load` | Loads JSON data into the system. | ![Load Data](json_data_read_project/screenshots/screenshot_1.png) |
-| **GET** | `/api/v1/mapdata/merged` | Returns merged location and metadata. | ![Merged Data](json_data_read_project/screenshots/screenshot_2.png) |
-| **GET** | `/api/v1/mapdata/valid-count` | Counts valid locations per type. | ![Valid Count](json_data_read_project/screenshots/screenshot_3.png) |
-| **GET** | `/api/v1/mapdata/average-ratings` | Calculates average rating per type. | ![Average Ratings](json_data_read_project/screenshots/screenshot_4.png) |
-| **GET** | `/api/v1/mapdata/highest-reviews` | Identifies the location with the highest reviews. | ![Highest Reviews](json_data_read_project/screenshots/screenshot_6.png) |
-| **GET** | `/api/v1/mapdata/incomplete-data` | Lists locations missing metadata. | ![Incomplete Data](json_data_read_project/screenshots/screenshot_5.png) |
+| **GET** | `/api/v1/mapdata/load` | Loads JSON data into the system. | ![Load Data](json_data_read_project/screenshot/screenshot_1.png) |
+| **GET** | `/api/v1/mapdata/merged` | Returns merged location and metadata. | ![Merged Data](json_data_read_project/screenshot/screenshot_2.png) |
+| **GET** | `/api/v1/mapdata/valid-count` | Counts valid locations per type. | ![Valid Count](json_data_read_project/screenshot/screenshot_3.png) |
+| **GET** | `/api/v1/mapdata/average-ratings` | Calculates average rating per type. | ![Average Ratings](json_data_read_project/screenshot/screenshot_4.png) |
+| **GET** | `/api/v1/mapdata/highest-reviews` | Identifies the location with the highest reviews. | ![Highest Reviews](json_data_read_project/screenshot/screenshot_6.png) |
+| **GET** | `/api/v1/mapdata/incomplete-data` | Lists locations missing metadata. | ![Incomplete Data](json_data_read_project/screenshot/screenshot_5.png) |
 
 ---
 
